@@ -1,4 +1,4 @@
-function plotUsave(sv)
+function plotUsage(sv)
 % Plot the elemet usage for a multi-elemet DAC
 T = size(sv,2);					M = size(sv,1);
 
